@@ -5,6 +5,7 @@ It combines Python, Scikit-learn, and Streamlit/Flask to deliver an intuitive, i
 students, and ML enthusiasts. Whether analyzing single sentences, paragraphs, or multi-line inputs, EmotionScope provides accurate predictions 
 powered by pre-trained models, making sentiment analysis fast, reliable, and visually appealing.
 
+
 ✨ Features
 | Feature                 | Description                                 |
 | ----------------------- | ------------------------------------------- |
@@ -13,6 +14,8 @@ powered by pre-trained models, making sentiment analysis fast, reliable, and vis
 | **Pre-trained Models**  | Ready-to-use ML models for fast predictions |
 | **Interactive Web App** | Clean and intuitive UI via Streamlit/Flask  |
 | **Modular Code**        | Easy to customize, train, or deploy         |
+
+
 
 
 📂 Project Structure
@@ -25,6 +28,7 @@ EmotionScope/
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
 └── .gitignore          # Ignore unnecessary files
+
 
 
 🚀 Installation & Usage
@@ -44,6 +48,8 @@ EmotionScope/
     python api.py
 
 
+
+
 💡 Model Details
 
 | 🔹 Component      | 🧩 Description                                       |
@@ -52,6 +58,8 @@ EmotionScope/
 | **Algorithms**    | Logistic Regression / Naive Bayes                    |
 | **Saved Models**  | Pre-trained models in `Models/` for fast predictions |
 | **Evaluation**    | Accuracy, precision, recall metrics in notebooks     |
+
+
 
 
 📸 Demo
